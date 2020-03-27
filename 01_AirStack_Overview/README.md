@@ -21,7 +21,7 @@ This software is written by **Deepwave Digital, Inc.** [www.deepwavedigital.com]
 
 **Slides**: [Deepwave_Webinar_20200325_Public_Release.pdf](https://deepwavedigital.com/presentations/2020/Deepwave_Webinar_20200325_Public_Release.pdf)
 
-**Video:** Coming Soon
+**Video:** [https://youtu.be/S17vUaTDHts](https://youtu.be/S17vUaTDHts)
 
 **Topics**
 1. Overview of Deepwave Digital
