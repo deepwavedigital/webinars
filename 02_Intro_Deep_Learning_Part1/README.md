@@ -16,7 +16,7 @@ This software is written by **Deepwave Digital, Inc.** [www.deepwavedigital.com]
 
 **Date:** Streamed live April 14, 2020
 
-**Slides**: Comming Soon
+**Slides**: [02_Intro_Deep_Learning_Part1.pdf](https://deepwavedigital.com/media/2020/02_Intro_Deep_Learning_Part1.pdf)
 
 **Video:** Coming Soon
 
