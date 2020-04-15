@@ -2,7 +2,7 @@
 
 ## Author
 <p align="center">
-<img src="http://www.deepwavedigital.net/logos/deepwave-logo-2-white.png" Width="50%" />
+<img src="https://deepwavedigital.com/media/images/dwd2_crop_transparent.png" Width="50%" />
 </p>
 
 This software is written by **Deepwave Digital, Inc.** [www.deepwavedigital.com]().
@@ -18,7 +18,7 @@ This software is written by **Deepwave Digital, Inc.** [www.deepwavedigital.com]
 
 **Slides**: [02_Intro_Deep_Learning_Part1.pdf](https://deepwavedigital.com/media/2020/02_Intro_Deep_Learning_Part1.pdf)
 
-**Video:** Coming Soon
+**Video:** [https://youtu.be/yhVm9hH4nIo](https://youtu.be/yhVm9hH4nIo)
 
 **Topics**
 1. Overview of Deepwave Digital
