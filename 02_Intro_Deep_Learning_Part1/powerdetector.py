@@ -5,6 +5,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 import cupy as cp
 import cusignal
+from cusignal import filter_design
 
 
 class PowerDetector:
@@ -82,8 +83,8 @@ class PowerDetector:
         """
         ntaps = 2 * self._dec + 1
         cut = 1 / self._dec
-        filt_coef = cusignal.fir_filter_design.firwin(ntaps, cut,
-                                                      window=('kaiser', 0.5))
+        filt_coef = filter_design.fir_filter_design.firwin(ntaps, cut,
+                                                           window=('kaiser', 0.5))
         win = cp.asarray(filt_coef, dtype=cp.float32)
         return win
     
